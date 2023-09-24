@@ -1,0 +1,37 @@
+{
+    "alrightreserve": "© 2022 · All rights reserved.",
+    "just texted":"We just texted you!",
+    "code":"Please enter the code we just sent you at",
+    "otp":"Did not receive OTP? ",
+    "resend":"Resend",
+    "verify":"Verify",
+    "phone":"Enter your Phone number",
+    "signin":"Sign In",
+    "hi":"Hi Ali!!",
+    "users":"Users",
+    "search":"Search",
+    "adduser":"Add User",
+    "searchid":"Search by Purchase Request ID",
+    "cost":"Cost Center",
+    "employeename":"EMPLOYEE NAME",
+    "employeesalary":"EMPLOYEE SALARY",
+    "employeeage":"EMPLOYEE AGE",
+    "profileimage":"PROFILE IMAGE",
+    "action":"ACTION",
+    "dashboard":"Dashboard",
+    "profile":"Profile",
+    "inventory":"Inventroy",
+    "purchaserequests":"Purchase Requests",
+    "itemrequest":"Item Requests",
+    "meetings":"Meetings",
+    "messages":"Messages",
+    "setting":"Setting",
+    "apinotprovided":"api not provided",
+    "logout":"Logout"
+    
+    
+
+
+
+  }
+  

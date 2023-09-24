@@ -1,0 +1,29 @@
+.backgroundimage {
+    background-image: url("../../public//otp.png");
+    background-size: cover;
+    /* Adjust as needed */
+    background-repeat: no-repeat;
+    height: 506px !important;
+    border-radius: 12px;
+    display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center
+
+
+}
+
+.textcolor {
+    color: #B5B5B5
+}
+.otpcont input[type="number"] {
+    width: 40px !important;
+    height: 40px !important;
+    /* Add other styles */
+  }
+  .otp-container input {
+    width: 80px !important; /* Set the width of each box */
+    height: 78px !important;  /* Set the height of each box */
+    /* Add other styles as needed */
+    border: 1px solid #E1E1E1;
+    border-radius: 4px;
+  }
